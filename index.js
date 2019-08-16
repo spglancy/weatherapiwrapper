@@ -16,6 +16,4 @@
                 })
             })
     }
-    simpleWeather(94102).then(res => console.log(res))
-    simpleForecast(94102).then(res => console.log(res))
 })()
